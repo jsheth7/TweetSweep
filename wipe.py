@@ -36,8 +36,8 @@ def delete_tweets():
         except Exception as e:
             print("ERROR TWEET {} NOT FOUND | {}".format(tweet_id, e))
 
-    api.update_status(
-        'TweetSweep Just Deleted {} Tweets From My Account. https://github.com/TCWTEAM/TweetSweep'.format(total))
+    #api.update_status(
+    #    'TweetSweep Just Deleted {} Tweets From My Account. https://github.com/TCWTEAM/TweetSweep'.format(total))
     print("COMPLETE")
 
 
