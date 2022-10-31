@@ -43,8 +43,8 @@ def delete_tweets():
 
 if __name__ == '__main__':
     print("-" * 40)
-    print("TweetSweep By @ehxohd")
-    print("https://github.com/tcwteam/tweetsweep")
+    print("Based on TweetSweep Originally By @ehxohd")
+    # print("https://github.com/tcwteam/tweetsweep")
     print("-" * 40)
     print("")
 
